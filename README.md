@@ -6,13 +6,13 @@
 Clone the repository
 
 ```bash
-Project repo: https://github.com/
+Project repo: https://github.com/mianzaman/medical_chatbot.git
 ```
 
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -p mchatbot python=3.8 -y
+conda create -p mchatbot python -y
 ```
 
 ```bash
