@@ -64,4 +64,5 @@ open up localhost:
 - Flask
 - LLM
 - Pinecone
+- Grok
 
